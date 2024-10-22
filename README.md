@@ -1,9 +1,12 @@
 список услуг
-![image](https://github.com/user-attachments/assets/4f4eaf0d-d086-400b-83c3-33605bd469a4)
+![image](https://github.com/user-attachments/assets/c8fac56d-88c9-4175-b924-a3879cfe1eb2)
+
 корзина
 ![image](https://github.com/user-attachments/assets/863ca6cc-a62f-4387-b955-fae1b206d2c3)
+
 профиль
 ![image](https://github.com/user-attachments/assets/c11209b1-ad56-4ac7-b74b-2bc0ece1aebf)
+
 
 
 # untitled10
